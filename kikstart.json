@@ -1,0 +1,11 @@
+{
+  "books": ["book"],
+  "containers": [
+    {
+      "name": "dev",
+      "image": "kikstart/kikstart:latest",
+      "port": 80,
+      "cmd": ["init", "-s"]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "id": "demo-book-id",
+  "name": "Demo Book Name",
+  "description": "This is the Demo Book Description",
+  "index": "index.md",
+  "structure": "structure.md"
+}
